@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hermes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AI Chat Assistant</string>
+    <string name="nav_header_subtitle">Your AI Companion</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_notifications">Notifications</string>
+
+    <string name="hint_message">Type a message...</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_mic">Voice input</string>
+    <string name="btn_generate_image">Generate image</string>
+    <string name="btn_new_chat">New Chat</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="mode_casual">Casual</string>
+    <string name="mode_professional">Professional</string>
+    <string name="mode_academic">Academic</string>
+
+    <string name="error_microphone_permission">Microphone permission is required for voice input</string>
+    <string name="error_processing_message">Please wait for the previous message to process</string>
+    <string name="error_empty_message">Message cannot be empty</string>
+</resources>
