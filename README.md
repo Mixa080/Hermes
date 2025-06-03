@@ -1,4 +1,4 @@
-# 🤖 AI Chat — Smart Android Assistant
+# 🤖 AI Chat — Hermes
 
 ![GitHub release](https://img.shields.io/github/v/release/your-username/ai-chat-app)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
@@ -31,4 +31,4 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-chat-app.git
+   git clone https://github.com/Mixa080/Hermes.git
